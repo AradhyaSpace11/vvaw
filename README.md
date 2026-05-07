@@ -1,6 +1,6 @@
-# VVAW
+# vvaw
 
-VVAW is the Windows-focused standalone workspace for the current robot visual imitation project.
+`vvaw` is the Windows-focused standalone workspace for the current robot visual imitation project.
 
 The core idea is:
 
@@ -158,7 +158,7 @@ powershell -ExecutionPolicy Bypass -File .\check_gpu_windows.ps1
 
 ## What The Project Is Trying To Do
 
-VVAW is an imitation-learning workspace for a robot arm. A demonstration video is treated as a visual prompt. The system observes the robot's own camera view, compares it against the prompt, and predicts actions that make the robot imitate the demonstrated motion.
+`vvaw` is an imitation-learning workspace for a robot arm. A demonstration video is treated as a visual prompt. The system observes the robot's own camera view, compares it against the prompt, and predicts actions that make the robot imitate the demonstrated motion.
 
 At the moment the project is focused on a single target object class named `Target`.
 
