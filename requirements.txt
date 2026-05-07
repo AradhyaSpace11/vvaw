@@ -1,0 +1,11 @@
+numpy
+opencv-python
+pandas
+pillow
+# Drop-in replacement for pybullet with Windows wheels.
+pybullet-arm64==3.2.8
+pyyaml
+torch
+torchvision
+transformers
+ultralytics

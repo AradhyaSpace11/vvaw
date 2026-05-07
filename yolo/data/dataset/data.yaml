@@ -1,0 +1,11 @@
+names:
+  0: J0_Base
+  1: J1_Shoulder
+  2: J2_Elbow
+  3: J3_Wrist
+  4: J4_GripL
+  5: J5_GripR
+  6: Target
+path: .
+train: images/train
+val: images/train
